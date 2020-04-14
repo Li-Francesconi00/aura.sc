@@ -155,7 +155,7 @@ body, html{
 }
 
 .linhaAmarela{
- margin-left: -3vw;
+ margin-left: 48vw;
  margin-top: 2vw;
 }
 
@@ -165,7 +165,7 @@ body, html{
 	font-size: 1vw;
 	padding-top: 5vh;
 	text-align: center;
-	line-height: 2vw!important;
+	
 }
 
 .rodapeInfo{
