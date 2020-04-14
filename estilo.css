@@ -1,6 +1,7 @@
 * {
 	margin: 0px;
 	padding: 0px;
+	line-height: 1.4;
 }
 
 #video{
@@ -50,10 +51,9 @@ body, html{
 }
 
 .fundo-2 {
-  background-color: #17177F!important;
+  background-color: rgb(55, 55, 150);
   height: 20%;
   width: 100%;
-  bottom: 0;
   margin-top: 230px;
   
 }
@@ -76,10 +76,10 @@ body, html{
 }
 
 .title-land{
-background-color: #8282BD;
-width: 50px;
-height: 50px;
-position: absolute;
+	background-color: #8282BD;
+	width: 50px;
+	height: 50px;
+	position: absolute;
 }
 
 .mock-1 {
@@ -123,8 +123,8 @@ position: absolute;
 	color: white;
 	font-family: Montserrat Medium;
 	font-size: 3vw;
-	margin-left: 52vw;
-	padding-top: 10%;
+	margin-left: 50vw;
+	padding-top: 22vh;
 	width: 40vw;
 }
 
@@ -134,7 +134,7 @@ position: absolute;
 	font-size: 3vw;
 	margin-left: 52vw;
 
-	padding-top: 36%;
+	padding-top: 35vw;
 }
 
 .texto-5 {
@@ -150,13 +150,12 @@ position: absolute;
 	color: white;
 	font-family: Montserrat Medium;
 	font-size: 3vw;
-	margin-left: 52vw;
-
+	margin-left: 47vw;
+	line-height: 1.5;
 	padding-top: 23%;
 }
 
 .linhaAmarela{
-
  margin-left: -1vw;
  margin-top: 1vw;
 }
@@ -165,10 +164,15 @@ position: absolute;
 	color: white;
 	font-family: Montserrat Medium;
 	font-size: 1vw;
-	padding-top: 7px;
+	padding-top: 5vh;
 	text-align: center;
-	bottom: 0;
+	line-height: 2vw!important;
 }
+
+.rodapeInfo{
+	margin-bottom: 0.3vw;
+}
+
 .roleta {
 	margin-left: 30%;
 	margin-top: 3%;
